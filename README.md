@@ -40,6 +40,6 @@ The dataset used is manually created and contains Indomie prices across differen
 The project visualizes the trend of Indomie price increases and predicts the price in 2030 using Linear Regression.
 
 Image:
-![image](https://github.com/user-attachments/assets/8239e6d0-55b0-4bca-b5f3-7fe58a5f544a)
+![image](https://github.com/user-attachments/assets/8b16146b-1c33-44b9-8f84-e5c9b053803d)
 
 
