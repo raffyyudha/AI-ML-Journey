@@ -1,0 +1,41 @@
+ Indonesian Handsome Rate - Logistic Regression
+
+This is a simple project I created while learning machine learning, specifically Logistic Regression.  
+The goal of this project is not scientific research, but rather hands-on practice to understand how binary classification works.
+
+
+The model predicts the probability of someone being considered "handsome" based solely on their height.  
+The dataset is extremely small and fictional (only 5 data points), so please don’t take it too seriously.
+
+Visualization is done using `matplotlib`, and the model is built with `scikit-learn`.
+
+## Dataset
+
+The dataset contains just height in centimeters and a binary label:  
+1 = handsome, 0 = not handsome.
+
+| Height (cm) | Handsome |
+|-------------|----------|
+| 150         | 0        |
+| 153         | 0        |
+| 160         | 0        |
+| 170         | 0        |
+| 176         | 1        |
+
+Libraries Used
+
+- numpy
+- matplotlib
+- scikit-learn
+
+Output
+
+The model produces a sigmoid curve representing the handsome probability, based on logistic regression.
+
+
+ Notes
+
+This project is built with a playful concept but a serious intention to learn.  
+Please don’t interpret the results as statistically or socially accurate 😄
+
+---
