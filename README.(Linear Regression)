@@ -1,7 +1,5 @@
-# raffy
-Its My Long Journey
 
-# Indomie Price Prediction with Linear Regression
+Indomie Price Prediction with Linear Regression
 
 This is my first project using Python and Linear Regression during my first week of learning.  
 I created a simple dataset using Indomie prices over the years.
@@ -11,7 +9,7 @@ but when applied to data with many influencing factors, it becomes less reliable
 
 ---
 
-## 📊 Dataset
+ 📊 Dataset
 
 The dataset used is manually created and contains Indomie prices across different years:
 
@@ -25,7 +23,7 @@ The dataset used is manually created and contains Indomie prices across differen
 
 ---
 
-## 🛠 Technologies Used
+ 🛠 Technologies Used
 
 - **Python** – Main programming language
 - **Pandas** – For data handling
@@ -33,13 +31,6 @@ The dataset used is manually created and contains Indomie prices across differen
 - **Matplotlib** – For data visualization
 - **Scikit-learn** – For implementing Linear Regression
 
----
-
-## 📈 Output
-
-The project visualizes the trend of Indomie price increases and predicts the price in 2030 using Linear Regression.
-
-Image:
 ![image](https://github.com/user-attachments/assets/8b16146b-1c33-44b9-8f84-e5c9b053803d)
 
 
